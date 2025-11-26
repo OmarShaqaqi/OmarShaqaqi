@@ -21,7 +21,7 @@
   <p />
 
   #### Find me on:
-  [!["Follow me on LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]([https://www.linkedin.com/in/omarshaqaqi/](https://www.linkedin.com/in/omar-shaqaqi-23a20a26b/))
+  [!["Follow me on LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/omar-shaqaqi-23a20a26b/)
   [!["Email"](https://img.shields.io/badge/Email-ffffff?style=flat&logo=gmail&logoColor=red)](mailto:shaqaqio@gmail.com)
 
 </div>
